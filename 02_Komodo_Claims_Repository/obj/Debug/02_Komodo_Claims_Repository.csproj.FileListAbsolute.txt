@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\DotNetProjects\Gold Badge Console Application Challenges\02_Komodo_Claims_Repository\bin\Debug\02_Komodo_Claims_Repository.dll
+C:\ElevenFiftyProjects\DotNetProjects\Gold Badge Console Application Challenges\02_Komodo_Claims_Repository\bin\Debug\02_Komodo_Claims_Repository.pdb
+C:\ElevenFiftyProjects\DotNetProjects\Gold Badge Console Application Challenges\02_Komodo_Claims_Repository\obj\Debug\02_Komodo_Claims_Repository.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\Gold Badge Console Application Challenges\02_Komodo_Claims_Repository\obj\Debug\02_Komodo_Claims_Repository.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\Gold Badge Console Application Challenges\02_Komodo_Claims_Repository\obj\Debug\02_Komodo_Claims_Repository.dll
+C:\ElevenFiftyProjects\DotNetProjects\Gold Badge Console Application Challenges\02_Komodo_Claims_Repository\obj\Debug\02_Komodo_Claims_Repository.pdb
