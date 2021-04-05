@@ -61,9 +61,10 @@ namespace _02_Komodo_Claims_Console
 
             foreach (KomodoClaims item in _listOfKomodoClaims)
                 {
-                    Console.Write($"Claim ID:{item.ClaimId}");
+                    Console.Write($"Claim ID:{item.ClaimId}", $"Type:{item.ClaimType}",$"Description{item.ClaimDescription}",$"Amount{item.ClaimAmount}",$"Date of Accident{item.DateOfAccident}",$"Date of Claim{item.DateOfClaim}", $"Is Valid?{item.IsValid}");
 
                 }
+            
             
             /* DataTable dt = new DataTable();
              dt.Columns.Add("ClaimID", Type.GetType("System.Int32"));
@@ -86,7 +87,7 @@ namespace _02_Komodo_Claims_Console
              */
 
         }
-
+       
         private void TakeCareOfNextClaim()
         {
 
@@ -106,7 +107,7 @@ namespace _02_Komodo_Claims_Console
             Console.WriteLine("Please enter a short Description:" );
             newClaim.ClaimDescription = Console.ReadLine();
 
-            Console.WriteLine("Please enter the claim Amount:");
+            Console.WriteLine("Please enter the claim Amount(EXAMPLE 5000):");
             string amountAsString = Console.ReadLine();
             newClaim.ClaimAmount = int.Parse(amountAsString);
 
