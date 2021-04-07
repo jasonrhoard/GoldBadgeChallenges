@@ -12,3 +12,10 @@ C:\ElevenFiftyProjects\DotNetProjects\Gold Badge Console Application Challenges\
 C:\ElevenFiftyProjects\DotNetProjects\Gold Badge Console Application Challenges\02_Komodo_Claims_Tests\obj\Debug\02_Komodo_Claims_Tests.csproj.CopyComplete
 C:\ElevenFiftyProjects\DotNetProjects\Gold Badge Console Application Challenges\02_Komodo_Claims_Tests\obj\Debug\02_Komodo_Claims_Tests.dll
 C:\ElevenFiftyProjects\DotNetProjects\Gold Badge Console Application Challenges\02_Komodo_Claims_Tests\obj\Debug\02_Komodo_Claims_Tests.pdb
+C:\ElevenFiftyProjects\DotNetProjects\Gold Badge Console Application Challenges\02_Komodo_Claims_Tests\bin\Debug\02_Komodo_Claims_Repository.dll
+C:\ElevenFiftyProjects\DotNetProjects\Gold Badge Console Application Challenges\02_Komodo_Claims_Tests\bin\Debug\04_Komodo_Outings_Console.exe
+C:\ElevenFiftyProjects\DotNetProjects\Gold Badge Console Application Challenges\02_Komodo_Claims_Tests\bin\Debug\04_Komodo_Outings_Repository.dll
+C:\ElevenFiftyProjects\DotNetProjects\Gold Badge Console Application Challenges\02_Komodo_Claims_Tests\bin\Debug\02_Komodo_Claims_Repository.pdb
+C:\ElevenFiftyProjects\DotNetProjects\Gold Badge Console Application Challenges\02_Komodo_Claims_Tests\bin\Debug\04_Komodo_Outings_Console.pdb
+C:\ElevenFiftyProjects\DotNetProjects\Gold Badge Console Application Challenges\02_Komodo_Claims_Tests\bin\Debug\04_Komodo_Outings_Console.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\Gold Badge Console Application Challenges\02_Komodo_Claims_Tests\bin\Debug\04_Komodo_Outings_Repository.pdb

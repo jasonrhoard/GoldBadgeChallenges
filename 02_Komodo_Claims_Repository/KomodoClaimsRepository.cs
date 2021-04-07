@@ -10,7 +10,7 @@ namespace _02_Komodo_Claims_Repository
     {
         public List<KomodoClaims> _listOfKomodoClaims = new List<KomodoClaims>();
 
-        public List<KomodoClaims> SeeAllClaims()
+        public List<KomodoClaims> SeeAllKomodoClaims()
         {
             return _listOfKomodoClaims;
 
@@ -19,7 +19,7 @@ namespace _02_Komodo_Claims_Repository
         public void TakeCareOfNextClaim()
         {
             Console.Clear();
-            SeeAllClaims();
+            SeeAllKomodoClaims();
 
         }
 
